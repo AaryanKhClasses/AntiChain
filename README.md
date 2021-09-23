@@ -44,9 +44,10 @@ $ git clone "https://github.com/AaryanKhClasses/AntiChain"
 ### If you are running your bot locally,
 
 1. Make sure you have **Node.JS** installed.
-2. Open the **Command Prompt** and run the following command:
+2. Open the **Command Prompt** and run the following commands one by one:
 
 ```sh
+$ npm install
 $ npm run start
 ```
 
